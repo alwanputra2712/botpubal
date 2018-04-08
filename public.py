@@ -11,7 +11,7 @@ from googletrans import Translator
 import time,random,sys,json,codecs, threading,glob,urllib,urllib2,urllib3,re,ast,os, subprocess,requests,tempfile
 
 cl = LINETCR.LINE()
-cl.login(token="ErMfMQXqAMLe0w6iiYI1.ZQX5xOaz2JCuVEQD2p1Tqq.kuy8rV1cP8SulxTNPFxm/EYlrSarCAbqDh4Yub4A/8Q=")
+cl.login(token="ErknbKiEC7wZG32eUFi1.ZQX5xOaz2JCuVEQD2p1Tqq.7svQeSVddRw9DVMNPv9MucE+f8Vojvmnwnw40sdPUxw=")
 #cl.login(token='TOKEN_HERE')
 cl.loginResult()
 print "PUBLICK PRANKBOTS SUCCESS LOGIN\nSELAMAT MENGGUNAKAN"
