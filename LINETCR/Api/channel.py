@@ -18,8 +18,8 @@ class Channel:
     http_query_path = "/S4"
     channel_query_path = "/CH4"
 
-    UA = "Line/8.1.1"
-    LA = "DESKTOPWIN\t5.5.1.1.1590\tWINDOWS_NT\t8."
+    UA = "Line/7.14.0"
+    LA = "WIN10\t8.0.0\tHelloWorld\t11.2.5WIN10"
 
     authToken = None
     mid = None
